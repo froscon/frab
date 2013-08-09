@@ -1,2 +1,0 @@
-module Cfp::PasswordsHelper
-end
